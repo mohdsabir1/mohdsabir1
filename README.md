@@ -6,7 +6,7 @@ Frontend Developer
 
 A passionate Frontend Developer with expertise in JavaScript, React.js, TypeScript, HTML, CSS, Tailwind CSS, and Next.js. I have built dynamic user interfaces and responsive designs, and I’m currently expanding my knowledge in backend development with Node.js and Express. I’m always looking for new opportunities to enhance user experience and secure digital environments.
 
-* 🌍  I'm based in New Delhi
+* 🌍  I'm based in Ghaziabad, Uttar Pradesh.
 * ✉️  You can contact me at [moh.sabir.ali.54321@gmail.com](mailto:moh.sabir.ali.54321@gmail.com)
 * 🚀  I'm currently working on [Revaa](http://revaaforyou.com)
 * 🧠  I'm learning Node js
